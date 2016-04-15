@@ -1,0 +1,16 @@
+.nav {
+  text-align: center;
+}
+.item {
+  display: inline;
+  padding: 0 10px 2px 10px;
+  font-size: 18px;
+}
+.item:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+.menu:hover, .menu:active, .menu:visited, .menu:link {
+    text-decoration: none;
+    cursor: pointer;
+    color: #fff;
+}

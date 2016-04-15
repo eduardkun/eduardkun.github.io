@@ -1,0 +1,27 @@
+body {
+    background-image: url('../img/bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 0 0;
+}
+.container {
+    background-color: rgba(0, 0, 0, 0.4);
+    padding-bottom: 20px;
+    border-radius: 0 0 10px 10px;
+}
+.cat {
+    text-align: center;
+}
+h3 {
+    color: white;
+}
+a {
+    text-decoration: none;
+    cursor: pointer;
+    color: #fff;
+}
+a:hover, a:active {
+    text-decoration: none;
+    cursor: pointer;
+    color: #3498DB;
+}

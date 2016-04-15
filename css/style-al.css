@@ -1,0 +1,27 @@
+body {
+    background-image: url('../img/bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 0 0;
+}
+.container {
+    background-color: rgba(0, 0, 0, 0.4);
+    padding-bottom: 20px;
+    border-radius: 0 0 10px 10px;
+}
+.list{
+  padding-left: 20px;
+}
+p {
+    color: white;
+}
+.progress{
+  /*color: #f62424;*/
+  color: #3498DB;
+  background: none;
+  margin-bottom: 10px;
+}
+
+.plane{
+  color: #1a6313;
+}
